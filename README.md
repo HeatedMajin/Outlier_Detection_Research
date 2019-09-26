@@ -103,6 +103,24 @@
 - Marco Fraccaro, Søren Kaae Sønderby, Ulrich Paquet, and Ole Winther. 2016.Sequential neural models with stochastic layers. In Advances in neural information processing systems. 2199–2207.
 - Daehyung Park, Yuuna Hoshi, and Charles C. Kemp. 2018. A Multimodal Anomaly Detector for Robot-Assisted Feeding Using an LSTM-Based Variational Autoencoder. IEEE Robotics and Automation Letters 3 (2018), 1544–1551.
 - Bo Zong, Qi Song, Martin Renqiang Min, Wei Cheng, Cristian Lumezanu, Daeki Cho, and Haifeng Chen. 2018. Deep autoencoding gaussian mixture model for unsupervised anomaly detection. In International Conference on Learning Representations.
-- Diederik P. Kingma and Max Welling. 2014. Auto-Encoding Variational Bayes. In
-  Proceedings of the Second International Conference on Learning Representations
-  (ICLR 2014).
+- Diederik P. Kingma and Max Welling. 2014. Auto-Encoding Variational Bayes. In Proceedings of the Second International Conference on Learning Representations(ICLR 2014).
+-  Christian Robert and George Casella. 2013. Monte Carlo statistical methods. Springer Science & Business Media
+- Genshiro Kitagawa and Will Gersch. 1996. Linear Gaussian State Space Modeling. In Smoothness Priors Analysis of Time Series. Springer, 55–65
+- Rui Zhao, Wanli Ouyang, Hongsheng Li, and Xiaogang Wang. 2015. Saliency detection by multi-context deep learning. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 1265–1274.(*saliency detection research/saliency detection research when sufficient labeled data is available*)
+- Alban Siffer, Pierre-Alain Fouque, Alexandre Termier, and Christine Largouet.Anomaly detection in streams with extreme value theory. In Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. ACM, 1067–1075.
+- （**SR**） Xiaodi Hou and Liqing Zhang. 2007. Saliency detection: A spectral residual approach. In Computer Vision and Pattern Recognition, 2007. CVPR’07. IEEE Conference on. IEEE, 1–8.
+- Chenlei Guo, Qi Ma, and Liming Zhang. 2008. Spatio-temporal saliency detection using phase spectrum of quaternion fourier transform. (2008)
+
+
+
+## VAE
+
+- （**DONUT**）Haowen Xu, Wenxiao Chen, Nengwen Zhao, Zeyan Li, Jiahao Bu, Zhihan Li,Ying Liu, Youjian Zhao, Dan Pei, Yang Feng, et al. 2018. Unsupervised Anomaly Detection via Variational Auto-Encoder for Seasonal KPIs in Web Applications.In Proceedings of the 2018 World Wide Web Conference on World Wide Web. International World Wide Web Conferences Steering Committee, 187–196.(*proposed DONUT, an unsupervised anomaly detection method based on Variational Auto-Encoder (VAE)*、evaluation strategy)
+
+- （**OmniAnomaly**）Ya Su, Youjian Zhao, Chenhao Niu, Rong Liu, Wei Sun and Dan Pei.Robust Anomaly Detection for Multivariate Time Series through Stochastic Recurrent Neural Network. KDD 2019
+
+  
+
+## evaluation metric
+
+- Alexander Lavin and Subutai Ahmad. 2015. Evaluating Real-Time Anomaly Detection Algorithms–The Numenta Anomaly Benchmark. In Machine Learning and Applications (ICMLA), 2015 IEEE 14th International Conference on. IEEE, 38–44
