@@ -116,11 +116,32 @@
 ## VAE
 
 - （**DONUT**）Haowen Xu, Wenxiao Chen, Nengwen Zhao, Zeyan Li, Jiahao Bu, Zhihan Li,Ying Liu, Youjian Zhao, Dan Pei, Yang Feng, et al. 2018. Unsupervised Anomaly Detection via Variational Auto-Encoder for Seasonal KPIs in Web Applications.In Proceedings of the 2018 World Wide Web Conference on World Wide Web. International World Wide Web Conferences Steering Committee, 187–196.(*proposed DONUT, an unsupervised anomaly detection method based on Variational Auto-Encoder (VAE)*、evaluation strategy)
-
 - （**OmniAnomaly**）Ya Su, Youjian Zhao, Chenhao Niu, Rong Liu, Wei Sun and Dan Pei.Robust Anomaly Detection for Multivariate Time Series through Stochastic Recurrent Neural Network. KDD 2019
+- M. S¨olch, J. Bayer, M. Ludersdorfer, and P. van der Smagt. Variational inference for on-line anomaly detection in high-dimensional time series. arXiv preprint arXiv:1602.07109, 2016.
+- H. Xu, W. Chen, N. Zhao, Z. Li, J. Bu, Z. Li, Y. Liu,Y. Zhao, D. Pei, Y. Feng, et al. Unsupervised anomaly
+  detection via variational auto-encoder for seasonal kpis in web applications. arXiv preprint arXiv:1802.03903, 2018.
+- S. Clachar. Novelty detection and cluster analysis in time series data using variational autoencoder feature maps. The University of North Dakota, 2016.
 
-  
+
+
+## trajectory（from video sequence）
+
+- （**层级聚类**）Fu Z, Hu W, Tan T. Similarity based vehicle trajectory clustering and anomaly detection[C]//IEEE International Conference on Image Processing 2005. IEEE, 2005, 2: II-602
+- （**SVM**）Piciarelli C, Micheloni C, Foresti G L. Trajectory-based anomalous event detection[J]. IEEE Transactions on Circuits and Systems for video Technology, 2008, 18(11): 1544-1554.
+- （**k-means**）Zhou Y, Yan S, Huang T S. Detecting anomaly in videos from trajectory similarity analysis[C]//2007 IEEE International Conference on Multimedia and Expo. IEEE, 2007: 1087-1090.
+
+
+
+## trajectory
+
+- Kong X, Song X, Xia F, et al. LoTAD: Long-term traffic anomaly detection based on crowdsourced bus trajectory data[J]. World Wide Web, 2018, 21(3): 825-847.
 
 ## evaluation metric
 
 - Alexander Lavin and Subutai Ahmad. 2015. Evaluating Real-Time Anomaly Detection Algorithms–The Numenta Anomaly Benchmark. In Machine Learning and Applications (ICMLA), 2015 IEEE 14th International Conference on. IEEE, 38–44
+
+
+
+## 轨迹的dataset
+
+https://www.neard.ws/archives/823
